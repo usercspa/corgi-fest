@@ -1,1 +1,1 @@
-# corgi-fest
+# Corgi Fest
